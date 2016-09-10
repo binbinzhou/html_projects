@@ -1,0 +1,224 @@
+/* CSS Document */
+/* -------内容页------ */
+.canshu{background-color:#f2f0f0;}
+.canshu .mobile_info{ width:1200px; height:620px; margin:0 auto;}
+.canshu .mobile_info h1{ height:40px; line-height:40px; padding-left:7px;  color:#666666;}
+.canshu .mobile_info h1 span{ font-weight:bold; font-size:20px;}
+.mobile_info1{ width:1200px; background-color:#FFFFFF; overflow:hidden;}
+.mobile_info1 .info1_left{ width:356px; height:579px; float:left;}
+.mobile_info1 .info1_left a{ float:left; border:1px solid #eeeeee; margin-right:4px; margin-top:15px; margin-bottom:15px;}
+.mobile_info1 .info1_left a.red{border:2px solid #FF0000;}
+.mobile_info1 .info1_left h2{ width:344px; height:40px; line-height:40px;  border-top:1px solid #eeeeee; float:left; padding-left:12px; color:#666666;}
+.mobile_info1 .info1_left h2 img{ float:right; padding:12px 5px 0 5px;}
+.mobile_info1 .info1_left h2 span{ float:right;}
+.mobile_info1 .info1_center{ width:605px; height:579px; float:left;}
+.mobile_info1 .info1_center h2{ height:55px; line-height:55px; text-align:center; color:#666666; font-size:18px; font-weight:bold;}
+.mobile_info1 .info1_center .info_prices{ height:130px; background-color:#f7f5f6;}
+.mobile_info1 .info1_center .info_prices dl{ float:left; width:465px; padding-left:20px; overflow:hidden;}
+.mobile_info1 .info1_center .info_prices dl dd{ width:485px; padding:12px 0;}
+.mobile_info1 .info1_center .info_prices dl dd.third{ margin-left:65px; padding-top:8px;}
+.mobile_info1 .info1_center .info_prices dl dd.third a{ color:#006cc0;}
+.mobile_info1 .info1_center .info_prices dl dd.third b{ width:60px; height:20px;}
+.mobile_info1 .info1_center .info_prices dl dd p{ float:right; margin-right:340px;}
+.mobile_info1 .info1_center .info_prices dl dd b{ text-align:center; width:36px; height:20px; background-color:#e4393c; float: left; color:#FFFFFF;}
+.mobile_info1 .info1_center .info_prices dl dd i{ color:#e4393c;}
+.mobile_info1 .info1_center .info_prices dl dd .span0{ color:#e4393c; font-size:20px;}
+/*  width:36px; height:30px; */ 
+
+.mobile_info1 .info1_center .info_prices dl dd img{ float:left; }
+.mobile_info1 .info1_center .info_prices dl dd .span0 a{ color:#006cc0;}
+.mobile_info1 .info1_center .info_prices .split{ width:1px; background-color:#e2e2e2; float:left; height:60px; margin-top:13px;}
+.mobile_info1 .info1_center dl.pingjia{ float:left; width:90px; height:80px;margin-top:13px; color:#006cc0; margin-bottom:40px;}
+.mobile_info1 .info1_center dl.pingjia dd{ width:90px; padding:5px;}
+.mobile_info1 .info1_center ul{ width:605px; height:390px; float:left;}
+.mobile_info1 .info1_center ul li{ padding-left:21px; padding-top:20px;}
+.mobile_info1 .info1_center ul li.line{ width:580px; height:1px; border-bottom:1px dotted #666666;padding-bottom:10px; padding-top:5px;}
+.mobile_info1 .info1_center ul li .songzhi{ width:125px; height:22px; border:1px solid #666666; padding:0 5px; margin:0 5px;}
+.mobile_info1 .info1_center ul li b{ font-weight:bold;}
+.mobile_info1 .info1_center ul li .fenqi{ width:15px; height:16px; background:url(../images/main_images/0802main2_14.png) no-repeat center; margin-left:0px; padding-left:5px; padding-right:15px;}
+.mobile_info1 .info1_center ul li .myf{ width:15px; height:16px; background:url(../images/main_images/0802main2_07.png) no-repeat center; margin-left:0px; padding-left:5px; padding-right:15px;}
+.mobile_info1 .info1_center ul li .zt{ width:15px; height:16px; background:url(../images/main_images/0802main2_09.png) no-repeat center; margin-left:0px; padding-left:5px; padding-right:15px;}
+.mobile_info1 .info1_center ul li .tuihuo{ width:15px; height:16px; background:url(../images/main_images/0802main2_11.png) no-repeat center; margin-left:0px; padding-left:5px; padding-right:15px;}
+.mobile_info1 .info1_center ul li i{ padding-right:8px;}
+.mobile_info1 .info1_center ul li a{ padding:7px; border:1px solid #dddddd; margin-left:6px; }
+.mobile_info1 .info1_center ul li a.jiaru{ width:39px; height:30px; line-height:30px; text-align:center; float:left;}
+.mobile_info1 .info1_center ul li a.tianjia{ width:13px; height:10px; line-height:10px; text-align:center; float:left; margin-left:0px; padding:17px 8px;}
+.mobile_info1 .info1_center ul li botton{ width:187px; height:40px; background-color:#c5131e; float:left; margin-left:40px; font-size:22px; color:#FFFFFF; line-height:40px; text-align:center;}
+.info1_right{ width:200px; height:579px; float:left; margin-left:15px;}
+.info1_right img{ margin:15px 80px;}
+.info1_right .service_zhichi{ width:200px; height:90px; border-bottom:1px solid #eeeeee; border-top:1px solid #eeeeee;}
+.info1_right .service_zhichi h2{ padding:23px 0 13px 31px;}
+.info1_right .service_zhichi span{ float:left; width:17px; height:17px; background:url(../images/main_images/0802main_14.png) no-repeat center; margin-left:30px; margin-right:5px;}
+.info1_right .service_zhichi b{ float:left;}
+
+.tuijian{ width:1200px; height:312px; margin:10px auto; border:1px solid #dddddd;  color:#888888;}
+.tuijian .tuijian_title{ height:39px; border-bottom:1px solid #dddddd;}
+.tuijian .tuijian_title a{ float:left; width:96px; height:38px; line-height:38px; text-align:center; border-right:1px solid #dddddd;}
+.tuijian .tuijian_title a.first{ position:relative; overflow:hidden; top:1px; color:#e4393c; border-top:2px solid #e4393c; background:#FFFFFF;}
+.tuijian .tuijian_content{ overflow:hidden;}
+.tuijian .tuijian_content .tuijian_content1{ float:left; }
+.tuijian .tuijian_content .tuijian_content1 img{ float:left;}
+.tuijian .tuijian_content .tuijian_content1 .pic1{ padding:50px 15px 10px 25px;}
+.tuijian .tuijian_content .tuijian_content1 .pic2{ padding:115px 15px 50px 10px;}
+.tuijian .tuijian_content .tuijian_content1 h1{width:165px; padding-left:15px; padding-bottom:36px;}
+.tuijian .tuijian_content .tuijian_content2{ margin-top:10px; width:822px; height:261px; background-color:#FFFFFF; float:left;}
+.tuijian .tuijian_content .tuijian_content2 h1{ height:38px; border-bottom:1px solid #dddddd; }
+.tuijian .tuijian_content .tuijian_content2 a{float:left; padding:10px; border-left:1px solid #dddddd; border-right:1px solid #dddddd; border-top:1px solid #dddddd; margin-right:4px;} 
+.tuijian .tuijian_content .tuijian_content2 a.first{ color:#e4393c; position:relative; overflow:hidden; top:2px; background-color:#FFFFFF; border-top:2px solid #e4393c;}
+.tuijian .tuijian_content .tuijian_content2 .shit{ width:822px; height:233px;  border-left:1px solid #dddddd; border-right:1px solid #dddddd;  }
+.tuijian .tuijian_content .tuijian_content2 .shit .right{ padding-top:85px; padding-bottom:80px; float:left;}
+.tuijian .tuijian_content .tuijian_content2 .shit ul{ overflow:hidden; float:left;	}
+.tuijian .tuijian_content  .shit ul li{ float:left; width:140px; height:225px; margin:0 17px;}
+.tuijian .tuijian_content .shit ul li img{ padding:25px 20px 5px 20px;}
+.tuijian .tuijian_content .shit ul li h2{ padding:5px 2px;}
+.tuijian .tuijian_content .shit ul li span{ color:#e4393c;}
+.tuijian .tuijian_content .shit .left{ padding-top:85px; padding-bottom:80px; float:left; }
+.tuijian .tuijian_content3{ width:196px; height:272px; background-color:#f8f8f8; margin-left:1004px;}
+.tuijian .tuijian_content3 .desc{ padding-top:82px; padding-left:20px; color:#888888;}
+.tuijian .tuijian_content3 .desc h2{ padding-bottom:14px;}
+.tuijian .tuijian_content3 .desc span{ color:#df2020;}
+.tuijian .tuijian_content3 .desc input{ width:90px; height:28px; line-height:28px; text-align:center; background-color:#df2020; color:#FFFFFF; border:none; margin-top:10px; margin-right:10px;}
+.tuijian .tuijian_content3 .desc a{ color:#2272c8;}
+.introduction{ width:1200px; margin:0 auto; color:#888888;}
+.introduction .introduction_left{ width:210px; height:1000px; float:left; }
+.introduction .introduction_left .times h1{ height:30px; line-height:30px; padding-left:9px; border-bottom:1px solid #888888;}
+.introduction .introduction_left .times{ width:210px; border:1px solid #dddddd; margin-bottom:10px;}
+.introduction .introduction_left .times img{ padding:12px 0 20px 11px;}
+.introduction .introduction_left .others{ width:210px; border:1px solid #dddddd; overflow:hidden; margin-bottom:10px;}
+.introduction .introduction_left .others h1{ height:30px; line-height:30px; padding-left:9px; border-bottom:1px solid #888888;}
+.introduction .introduction_left .others dl{ float:left; margin-left:9px; margin-top:10px;}
+.introduction .introduction_left .others dl.last{ margin-left:65px;}
+.introduction .introduction_left .others dl dd{ margin-bottom:8px;}
+.introduction .introduction_left .visited_buy{ width:210px;  height:576px; overflow:hidden; border:1px solid #dddddd; margin-bottom:10px;  }
+.introduction .introduction_left .visited_buy h1{ height:30px; line-height:30px; padding-left:9px; border-bottom:1px solid #dddddd;}
+.introduction .introduction_left .visited_buy .productone{  border-bottom:1px dotted #dddddd;}
+.introduction .introduction_left .visited_buy .productone img{ padding:24px 0 11px 60px;}
+.introduction .introduction_left .visited_buy .productone p{ padding-left:20px; padding-right:24px;}
+.introduction .introduction_left .visited_buy .productone h3{ width:210px; text-align:center; color:#e4393c; padding:8px 0 12px 0; }
+.introduction .introduction_left .mobile_rank{ width:210px; height:418px; border:1px solid #dddddd; overflow:hidden; margin-bottom:10px;}
+.introduction .introduction_left .mobile_rank h1{ height:30px; line-height:30px; padding-left:9px; border-bottom:1px solid #dddddd;}
+.introduction .introduction_left .mobile_rank .rank h2{ margin-top:15px; border-bottom:1px solid #dddddd; padding-bottom:5px;}
+.introduction .introduction_left .mobile_rank .rank h2 a{ padding:5px 10px; border-left:1px solid #dddddd; border-right:1px solid #dddddd; border-top:1px solid #dddddd;  margin-left:8px; }
+.introduction .introduction_left .mobile_rank .rank h2 a.first{ color:#e4393c; position:relative; overflow:hidden; top:1px; background-color:#FFFFFF;}
+.introduction .introduction_left .mobile_rank .sameprice{ width:210px; height:69px; border-bottom:1px dotted #dddddd;}
+.introduction .introduction_left .mobile_rank .sameprice img{ float:left;  padding:16px 4px;}
+.introduction .introduction_left .mobile_rank .sameprice p{ padding:4px 13px 5px 5px ;}
+.introduction .introduction_left .mobile_rank .sameprice h3{ color:#e4393c;}
+
+.introduction .introduction_left .bought_visit{ width:210px; height:576px; border:1px solid #dddddd; margin-bottom:10px; overflow:hidden;  }
+.introduction .introduction_left .bought_visit h1{ height:30px; line-height:30px; padding-left:9px; border-bottom:1px solid #dddddd;}
+.introduction .introduction_left .bought_visit .productone{  border-bottom:1px dotted #dddddd;}
+.introduction .introduction_left .bought_visit .productone img{ padding:24px 0 11px 60px;}
+.introduction .introduction_left .bought_visit .productone p{ padding-left:20px; padding-right:24px;}
+.introduction .introduction_left .bought_visit .productone h3{ width:210px; text-align:center; color:#e4393c; padding:8px 0 12px 0; }
+
+
+.introduction .introduction_right{ width:973px; height:2502px; margin-left:225px; border:1px solid #dddddd; }
+.introduction .introduction_right h1{ height:36px; line-height:36px; border-bottom:1px solid #dddddd; font-size:14px;}
+.introduction .introduction_right h1 a{ padding:10px 17px; border-right:1px solid #dddddd;}
+.introduction .introduction_right h1 a.first{ color:#e4393c; position:relative; overflow:hidden; top:1px; background-color:#FFFFFF; border-top:2px solid #e4393c;}
+.introduction .introduction_right h1 a.last{ padding:11px 0px 11px 90px; border-right:none; background:url(../images/main_images/08030_03.png) no-repeat 210px 6px; }
+.introduction .introduction_right h1 a.last input{margin-left:90px; height:23px; padding:0px 10px; background-color:#df0000;  border:none; color:#FFFFFF;}
+.introduction .introduction_right .right_one{ width:933px; height:190px;border:1px solid #dddddd; margin:15px 20px;}
+.introduction .introduction_right .right_one .one_canshu1{ width:900px; margin:0 auto;overflow:hidden; border-bottom:1px solid #dddddd; }
+.introduction .introduction_right .right_one .one_canshu1 li{ float:left; width:265px; height:60px; margin:20px 15px; }
+.introduction .introduction_right .right_one .one_canshu1 .pmcc{background: url(../images/main_images/08030_07.png) no-repeat left;}
+.introduction .introduction_right .right_one .one_canshu1 .sxt{background: url(../images/main_images/08030_09.png) no-repeat left;}
+.introduction .introduction_right .right_one .one_canshu1 .wl{background: url(../images/main_images/08030_11.png) no-repeat left;}
+.introduction .introduction_right .right_one .one_canshu1 .pmcc p{ padding-left:35px;}
+.introduction .introduction_right .right_one .one_canshu1 .pmcc p.a{ padding-top:12px;}
+.introduction .introduction_right .right_one span{ display:line-block; float:left; margin-left:30px; margin-top:25px;}
+.introduction .introduction_right img{ margin-left:20px; margin-bottom:2px;}
+.introduction .introduction_right img.last{ margin-bottom:20px;}
+.introduction .zhengpin{ margin-left:225px; margin-top:12px; width:973px; height:410px;border:1px solid #dddddd; }
+.introduction .zhengpin h1{ padding:25px 0 20px 28px; font-size:20px; color:#df0000; font-weight:bold;}
+.introduction .zhengpin p{ padding-left:60px; padding-right:25px;}
+.introduction .zhu{ margin-left:225px; height:40px; line-height:40px;  }
+.introduction .idea{  margin-left:225px; width:973px; height:128px; border:1px solid #dddddd; overflow:hidden; margin-bottom:12px; }
+.introduction .idea h1{ height:35px; line-height:35px; color:#df0000; padding-left:10px;font-weight:bold;}
+.introduction .idea .idea1{ overflow:hidden; width:326px; border-right:1px solid #dddddd; float:left; }
+.introduction .idea .idea1 .idea1_right{ width:70px; padding-left:18px; padding-right:10px; float:left;}
+.introduction .idea .idea1 .idea1_right h2{color:#df0000; font-size:38px; }
+.introduction .idea .idea1 .idea1_right h3{ padding-left:10px;}
+.introduction .idea .idea1 .idea1_left{ width:225px; float:left;}
+.introduction .idea .idea1 .idea1_left ul{ float:left;}
+.introduction .idea .idea1 .idea1_left ul li{ margin-bottom:11px;}
+.introduction .idea .idea1 .idea1_left dl{ float:left;}
+.introduction .idea .idea1 .idea1_left dl dd{ margin-bottom:14px; margin-top:3px;}
+
+.introduction .idea .idea2{ width:370px; height:84px; border-right:1px solid #dddddd; float:left; padding-left:20px; padding-right:35px;}
+.introduction .idea .idea2 a{ width:70px; height:20px; float:left; background-color:#ffeacb; margin-right:4px; margin-bottom:4px; text-align:center;}
+.introduction .idea .idea3{ width:220px; text-align:center; margin-left:753px; }
+.introduction .idea .idea3 h3{ padding:15px 0;}
+.introduction .idea .idea3 input{ width:102px; height:26px; text-align:center; background-color:#fffcf8; border:1px solid #ffb84d;}
+.introduction .allidea{ margin-left:225px; width:973px; height:713px; border:1px solid #dddddd;}
+.introduction .allidea h1{ height:30px; line-height:30px; border-bottom:1px solid #dddddd; font-size:14px;}
+.introduction .allidea h1 a{ padding:7px 17px; border-right:1px solid #dddddd;}
+.introduction .allidea h1 a.first{ color:#e4393c; position:relative; overflow:hidden; top:1px; background-color:#FFFFFF; border-top:2px solid #e4393c;}
+.introduction .allidea ul{ overflow:hidden; margin-top:12px; width:973px; border-top:1px solid #dddddd; border-bottom:1px solid #dddddd; background-color:#f7f7f7; color:#666666;}
+.introduction .allidea ul li{ float:left; height:30px; line-height:30px;}
+.introduction .allidea ul li.pjxd{ padding:0 242px;}
+.introduction .allidea ul li.gmxx{ padding-left:73px; padding-right:144px;}
+.introduction .allidea .xinde{ width:532px; border-bottom:1px solid #dddddd; float:left;}
+.introduction .allidea .xinde p{ padding:30px 18px 64px 18px;}
+.introduction .allidea .xinde span{ padding-left:18px;}
+.introduction .allidea .xinde h3{ height:50px; line-height:50px; text-align:right; }
+.introduction .allidea .xinde h3 a{ color:#005aa0; }
+.introduction .allidea .manyidu{ width:123px; height:212px; float:left; border-bottom:1px solid #dddddd;}
+.introduction .allidea .manyidu img{ padding-top:43px;}
+.introduction .allidea .xinxi{ width:160px; height:212px; float:left; border-bottom:1px solid #dddddd;}
+.introduction .allidea .xinxi dl{ padding-top:43px;}
+.introduction .allidea .xinxi dd{ padding:2px 0;}
+.introduction .allidea .author{ width:158px; height:212px; float:left; border-bottom:1px solid #dddddd; }
+.introduction .allidea .author dl{ padding-top:43px;}
+.introduction .allidea .author dl dd{padding:2px 0px;}
+.introduction .allidea .author dl dd.p1{padding:2px 20px; background:url(../images/main_images/0802main_42.png) no-repeat left; }
+.introduction .allidea .xinde_pic{ width:532px; border-bottom:1px solid #dddddd; float:left; overflow:hidden;}
+.introduction .allidea .xinde_pic p{ padding:30px 18px 0px 18px;}
+.introduction .allidea .xinde_pic .pic001{ width:532px; height:80px;}
+.introduction .allidea .xinde_pic .pic001 .shai{  float:left; padding-top:30px; color:#005aa0; }
+.introduction .allidea .xinde_pic .pic001 img{ float:left; padding-left:18px;}
+.introduction .allidea .xinde_pic span{ padding-left:18px;}
+.introduction .allidea .xinde_pic h3{ height:34px; line-height:50px; text-align:right;  clear:both; }
+.introduction .allidea .xinde_pic h3 a{ color:#005aa0; }
+
+.introduction .page{width:975px; height:35px; line-height:35px; margin:0 auto; margin-top:12px; margin-bottom:14px;  text-align:center; margin-left:225px;}
+.introduction .page a{ border:1px solid #dddddd; padding:8px 14px;}
+.introduction .page a.first{ background-color:#e64e50; color:#FFFFFF;}
+.introduction .page a.last{ background-color:#f5f5f5; color:#666666;}
+.introduction .page span{ padding:0px 6px; }
+
+.introduction .allbuy{width:973px; margin-left:225px; height:110px; border:1px solid #dddddd; margin-bottom:22px;}
+.introduction .allbuy h1{  height:30px; line-height:30px; border-bottom:1px solid #dddddd; font-size:14px;}
+.introduction .allbuy h1 a{ padding:7px 17px; border-right:1px solid #dddddd;}
+.introduction .allbuy h1 a.first{ position:relative; overflow:hidden; top:1px; background-color:#FFFFFF; border-top:2px solid #e4393c;}
+.introduction .allbuy h1 .sou{ width:122px; height:22px; margin-left:10px; margin-right:5px; border:1px solid #dddddd;}
+.introduction .allbuy h1 span{ display:inline-block; vertical-align:middle; width:50px; height:22px; text-align:center; line-height:22px; border:1px solid #bed6af; color:#000000; }
+.introduction .allbuy h1 .zixun{ width:70px; height:24px; background:#e43e41; float:right; margin-right:15px; color:#FFFFFF; border:none; margin-top:3px;}
+.introduction .allbuy p{ padding:12px 9px; border-bottom:1px solid #dddddd;}
+
+.introduction .wangyou{width:973px; margin-left:225px; height:110px; border:1px solid #dddddd; margin-bottom:11px;}
+.introduction .wangyou h1{  height:30px; line-height:30px; border-bottom:1px solid #dddddd; font-size:14px;}
+.introduction .wangyou h1 a{ padding:7px 17px; border-right:1px solid #dddddd;}
+.introduction .wangyou h1 a.first{ position:relative; overflow:hidden; top:1px; background-color:#FFFFFF; border-top:2px solid #e4393c;}
+.introduction .wangyou ul{ width:949px; overflow:hidden; margin:15px 12px 0 12px; border-bottom:1px solid #dddddd;}
+.introduction .wangyou ul li{ float:left;}
+.introduction .wangyou ul li.zt{ padding-right:625px;}
+.introduction .wangyou ul li.zz{ padding-right:93px; padding-left:44px;}
+.introduction .wangyou i a{ color:#005aa0; }
+.introduction .allbuy p{ padding:12px 9px; border-bottom:1px solid #dddddd;}
+
+.jingxuan{ width:973px; margin:0 auto; border:1px solid #dddddd;  margin-left:225px; margin-bottom:11px}
+.jingxuan h1{ height:40px; line-height:40px; border-bottom:1px solid #d9d9d9; font-size:16px; padding-left:10px; }
+.jingxuan ul{ width:973px; overflow:hidden;}
+.jingxuan ul li{ width:108px;  float:left; margin-left:45px;}
+.jingxuan ul li img{ padding: 24px 0 10px 0;}
+.jingxuan ul li h2{ font-weight:bold; color:#ff0000; padding-top:10px; padding-bottom:13px;}
+
+.zuijin{ width:973px; margin:0 auto; border:1px solid #dddddd;  margin-left:225px; margin-bottom:11px}
+.zuijin h1{ height:40px; line-height:40px; border-bottom:1px solid #d9d9d9; font-size:16px; padding-left:10px; }
+.zuijin ul{ width:980px; overflow:hidden;}
+.zuijin ul li{ width:108px;  float:left; margin-left:13px;}
+.zuijin ul li img{ padding: 13px 0 10px 0px;}
+.zuijin ul li h2{ font-weight:bold; color:#ff0000; padding-top:10px; padding-bottom:21px; text-align:center;}
+

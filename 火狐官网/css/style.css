@@ -1,0 +1,35 @@
+*{padding:0; margin: 0;}
+li{list-style: none;}
+a{text-decoration: none; color: #484848; font-size: 15px;}
+.outer-wrapper{background-color: #d1e1ef;margin-top: 2px;}
+.wrapper{ background-color: #fff; width: 1000px; margin: 0 auto; }
+.header{ height: 150px; background-color: #d1e1ef; }
+.header>a{ background:url(../images/mozilla.png) no-repeat center; display: block; float: right;width: 154px; height: 47px; margin-right: 50px; cursor: pointer;}
+.header_nav{ overflow:hidden;}
+.header_nav>ul{ overflow: hidden; float: right;}
+.header_nav>ul li{ float: left; height: 47px; line-height: 47px; margin-right: 28px; }
+.header_nav>ul li .submenu{ display:none; width:190px; position: absolute; background-color:#fff;}
+.header_nav>ul li .submenu li{ width:180px; height:33px; line-height:33px; padding-left:10px; }
+.header_nav>ul li .submenu li a{ font-size:13px;}
+.header_nav>ul li .submenu li:hover{ text-decoration:underline; background-color:#D2DFE9;opacity: 0.6;}
+.header_nav>ul li:hover .submenu{ display:block}
+
+
+.header .logo{ position:relative;}
+.header .logo>a{background:url(../images/logo.png) no-repeat center; display: block;width: 188px; height: 72px; cursor: pointer; position: absolute; top:-26px;left:40px;}
+.header>ul{ overflow:hidden; width:630px; margin:0 auto; margin-top:63px;}
+.header>ul li{ background:#fff; float:left; width:170px; margin-left:20px;margin-right:20px; text-align:center; height:40px; line-height:40px; border-radius:6px; cursor:pointer;}
+.header>ul li a{ color:#67a7d0;}
+.header>ul li a:hover{ text-decoration:underline;}
+.header>ul li.current a{ color:#484e54; }
+.content{padding:40px 48px;}
+.content .inner{display:none;}
+.content .inner.current{ display:block; }
+.content .inner .tips{ width:902px; height:285px; border:1px solid #e8e8e8; background-color:#fafafa; margin-top:20px;}
+.outer-wrapper .subscribe{ width:1000px; margin:40px auto 93px auto; height:75px; background-color:#FFFFFF;}
+.subscribe span{ font-size:22px; color:$484848; line-height:75px; margin-left:48px;}
+.subscribe a{font-size:16px; background-color:#3590d2; width:180px; height:35px; display:block;float:right; margin:20px 130px 0 0 ; text-align:center; line-height:35px; color:#FFFFFF; border-radius:5px;}
+
+.footer{ background-color:#FFFFFF;}
+.footer .footer_center{ width:1000px; height:215px; margin:0 auto; background-color:#CCCCCC;}
+

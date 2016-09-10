@@ -1,0 +1,10 @@
+/* CSS Document */
+*,dl,dd{ margin:0px; padding:0px; font-size:12px; font-family:"微软雅黑","宋体"}
+ul{ padding:0; margin:0px;}
+img{ border:none; display:block;}
+h1,h2,h3,h4{ font-weight:normal;}
+a{ text-decoration:none; color:#666666;}
+li{ list-style-type:none;}
+em{ font-style:normal;}
+i{ list-style-type:none; font-style:normal;}
+b{ font-weight:normal;}
