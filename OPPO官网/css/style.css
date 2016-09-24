@@ -1,0 +1,140 @@
+.upper_area{background-color:#009b72;}
+.wrapper{ width:1176px; padding:0 12px; margin:0 auto; overflow:hidden;}
+.upper_area .wrapper .left_menu{ overflow:hidden; float:left;}
+.upper_area .wrapper .left_menu>li{ float:left; border-left: 1px solid #47b488;}
+.upper_area .wrapper .left_menu>li a{ padding:8px 20px; line-height:35px; color:#FFFFFF; font-size:14px;}
+.upper_area .wrapper .search{ float:right;}
+.upper_area .wrapper .search .icon_s{padding:8px 20px; display:inline-block; line-height:35px; overflow:hidden; }
+.upper_area .wrapper .search .icon_s .icon_search{ width:18px; height:19px; float:left; background:url(../images/oppo01_03.png) no-repeat center;}
+.search_form{width:100%; height:92px; display:none; background-color:#ededed; position:absolute; left:0; top:42px; z-index:1;  box-shadow:4px 4px #ccc;}
+.search_form form{ float:right; padding:20px;}
+.search_form form .txt{ width:382px; height:18px; padding:16px; float:left;}
+.search_form form .sub{ width:131px; padding:20px 0; line-height:10px; float:left; border:none; background-color:#009b72; color:#FFFFFF; font-size:16px; cursor:pointer; }
+.wrapper .right_menu{ overflow:hidden; float:right;}
+.wrapper .right_menu>li{ float:left; border-left: 1px solid #47b488;}
+.wrapper .right_menu li a{ padding:8px 20px; line-height:35px; color:#FFFFFF; font-size:14px;}
+.wrapper .right_menu li .lanuages{ display:none; width:100%; height:158px; background-color:#ededed; position:absolute; left:0; z-index:1;}
+.wrapper .right_menu li .lanuages h2{ margin:16px 0; text-align:left; font-size:16px; font-weight:bold;}
+.wrapper .right_menu li .lanuages ul{ overflow:hidden;}
+.wrapper .right_menu li .lanuages ul li{ float:left; line-height:35px;}
+.wrapper .right_menu li .lanuages ul li a{ float:left; width:102px; height:21px; line-height:21px; padding:8px 20px 6px 20px;color: #7b7b7b;}
+
+
+.bottom_area{}
+.bottom_area .logo{ float:left; margin:24px 0 20px 0;}
+.bottom_area .main_menu{ overflow:hidden; float:right;}
+.bottom_area .main_menu li{ float:left; line-height:80px;}
+.bottom_area .main_menu li a{ font-size:15px; font-weight:bold; color:#7b7b7b; padding-bottom:3px; margin:10px 20px;}
+.bottom_area .main_menu li a.current{border-bottom: 2px solid #2aad6f; color:#000000;}
+
+#imgshow {
+	position:relative;
+	width:1349px;
+	height:526px;
+	background:#fff;
+	cursor:pointer;
+	margin: 0 auto;
+}
+#imgshow .list {
+	position:absolute;
+	width:1349px;
+	height:526px;
+	overflow:hidden;
+}
+#imgshow .list ul {
+	position:absolute;
+	top:0;
+	left:0;
+}
+#imgshow .list li img{ width:1349px; height:526px; display:block;}
+#imgshow .count {
+	position:absolute;
+	left:50%;
+	margin-left:-42px;
+	bottom:10px;
+}
+#imgshow .count li {
+	text-align:center;
+	color:#fff;
+	float:left;
+	width:20px;
+	height:20px;
+	cursor:pointer;
+	margin-right:8px;
+	overflow:hidden;
+	background:#F90;
+	opacity:0.7;
+	filter:alpha(opacity=70);
+	border-radius:10px;
+}
+#imgshow .count li.current {
+	color:#fff;
+	opacity:1;
+	filter:alpha(opacity=100);
+	font-weight:700;
+	background:#f60;
+}
+
+
+.banner2{margin:100px 0;}
+.banner2 .lap{  float:left; margin-right:60px;}
+.banner2 .lap.two{ margin-right:0px;}
+.banner2 .lap.one a{ display:block; width:558px; height:310px; background:url(../images/oppo01_09.png) no-repeat center;}
+.banner2 .lap.two a{ display:block; width:558px; height:310px;  background:url(../images/oppo01_11.png) no-repeat center;}
+
+.banner3{ margin:70px 0; background-color:#fff;}
+.banner3 .news{float:left; margin-right:60px;}
+.banner3 .news .video{ width:350px; height:260px;}
+.banner3 h1{ margin-bottom:12px;}
+.banner3 h2{ margin-bottom:24px;}
+.banner3 h1 a{font-size:22px; color:#1f8657;}
+.banner3 h2 a{font-size:16px; color:#393939;}
+.banner3 dl{overflow:hidden; }
+.banner3 dl dd{overflow:hidden; margin-bottom:10px;}
+.banner3 dl dd a{ color:#1f8657;}
+.banner3 dl dd>a{ float:left; }
+.banner3 dl dd .desc{ width:271px; margin-left:10px; height:55px; border-bottom: 1px solid #cccccc; float:left; padding:12px 0;}
+
+.banner4{ background-color:#ededed; height:306px; padding:70px 0;}
+.banner4_center{ width:1200px; margin:0 auto;}
+.banner4 .activity{background-color:#006699; float:left; border-bottom: 5px solid #2aad6f; }
+.banner4 .activity a img{ display:block; width:300px; height:300px; }
+
+.footer{ margin:50px 0;}
+.prominet{margin-bottom:40px; background-color:#666666; overflow:hidden;}
+.prominet .content{ width:33.333%; background-color:#2aad6f; float:left;}
+.prominet .content.two{ background-color:#ededed;}
+.prominet .content a{ display:block; padding:21px 40px; overflow:hidden; color:#FFFFFF; font-weight:bold; font-size:18px; }
+.prominet .content.two a{ color:#333333;}
+.prominet .content a span{ float:left; }
+.prominet .content a span.sq{ float:right; margin:25px 0 20px 0;}
+
+.info{overflow:hidden;}
+.info li{ width:235.2px; height:183px; float:left; display:block; }
+.info li>a{ color:#2aad6f; font-weight:bold; font-size:18px; margin-bottom:20px;display:block;}
+.info li dl dd a{ margin:10px 0; display:block; font-size:15px; color: #7b7b7b;}
+
+.attention{ height:123px; border-bottom: 1px solid #ededed; border-top: 1px solid #ededed; }
+.attention .about{ padding:20px 0; float:left;overflow:hidden;}
+.attention .about>a{float:left; color:#7b7b7b; margin-right:8px;}
+.attention .about>a.atten{ line-height:45px;}
+.attention .about span{ overflow:hidden;}
+.attention .about span>a{ float:left; color:#7b7b7b; margin-right:30px; line-height:45px;}
+.attention .message{ float:right; padding:20px;}
+.attention .message .online{ float:left; width:280px;}
+.attention .message .online .online_icon{ float:left; width:67px; height:67px; background:url(../images/wangwang.png) no-repeat center;}
+.attention .message .desc{ float:left; margin-left:15px;}
+.attention .message .desc h4{ font-size:20px; font-weight:bold; color: #1f8657; margin-top:10px;}
+.attention .message .desc p{ color: #393939; line-height:24px;}
+.attention .message .tel{ width:280px; float:left;}
+.attention .message .tel .tel_icon{ float:left; width:67px; height:67px; background:
+url(../images/call.png) no-repeat center;}
+
+.copyright{padding:20px 0;}
+.copyright p{ float:left;  height:40px; color:#7b7b7b;}
+.copyright a{ float:left; margin-left:15px;}
+
+
+	
+
+
